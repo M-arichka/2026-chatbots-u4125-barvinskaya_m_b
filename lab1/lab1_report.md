@@ -26,5 +26,6 @@ Date of finished:\
 
 - Поменяла права доступа для своего service account с Storage Admin на Compute Viewer, попробовала повторить пункт с копированием данных
 <img width="571" height="377" alt="image" src="https://github.com/user-attachments/assets/509dd3b8-1ce3-4c8e-9a95-bbd673d870b8" />
-
-- 
+Копирование продолжелось,обратилась с преподавателю, он поменял роли и поменял бакет, копирование остановилось
+<img width="1669" height="177" alt="image" src="https://github.com/user-attachments/assets/a80b0047-111f-474b-a645-7928b85f23f6" />
+Остановаила и удалила ВМ
